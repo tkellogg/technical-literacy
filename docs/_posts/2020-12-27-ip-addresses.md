@@ -9,7 +9,7 @@ IP address to figure out where they live. Is this possible? Let's talk about IP 
 ![I traced his IP address, problem solved]({{site.baseurl}}/images/ip-address-meme.jpg)
 
 
-## Your IP address is like a mailing address
+# Your IP address is like a mailing address
 You can't send snail mail without an address, same with IP addresses. Nothing works without it.
 Every phone and computer has a different IP address, but they can change. 
 
@@ -18,7 +18,7 @@ address without looking it up on Google. IP addresses aren't like that, they're 
 like rural addresses, you need a special paid service to figure out the physical location.
 
 
-### On WiFi
+## On WiFi
 For WiFi, the entire home or business shares the same IP address. At work, they can 
 usually tell what sites you're going to, but they have better things to do. 
 
@@ -31,7 +31,7 @@ usually tell what sites you're going to, but they have better things to do.
 </figure>
 
 
-### On 3G, 4G, LTE or 5G
+## On 3G, 4G, LTE or 5G
 Unlike WiFi, Cellular IP addresses uniquely identify your phone on the internet, 
 but they change a lot. You get a different IP address every time you drive 
 too far and have to attach to a different cell tower. This happens every 0.5-20 miles. 
@@ -44,7 +44,7 @@ too far and have to attach to a different cell tower. This happens every 0.5-20 
 </figure>
 
 
-## How do I track down my ex-boyfriend?
+# How do I track down my ex-boyfriend?
 If you have an IP address, go to a site like 
 [whatismyip.com][wiip]. 
 It'll give you a city & state, but it seems wrong because it's the address of 
@@ -56,7 +56,7 @@ much work, so most police & businesses [pay for a service][geo] that will get
 a more accurate location.
 
 
-## Can Google or Facebook track me?
+# Can Google or Facebook track me?
 Yes, much better than police can. 
 
 The hard part is finding an IP address. Only websites can see your IP addresses, not
@@ -79,7 +79,7 @@ Facebook has managed to get themselves inserted into nearly every web page you v
 (ever see that "Like" button on random websites? It's tracking you if you're logged in).
 
 
-## I feel naked. Can I browse the internet alone?
+# I feel naked. Can I browse the internet alone?
 Yes. 
 
 * Your browser has a "private" or "incognito" mode. Use it. (Better: Use Tor)
