@@ -6,8 +6,7 @@ This is a blog about technical literacy
 
 <div>
   {% for post in site.posts %}
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <br />
+    <h3><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></h3>
     <p>{{ post.excerpt }}</p>
   {% endfor %}
 </div>
