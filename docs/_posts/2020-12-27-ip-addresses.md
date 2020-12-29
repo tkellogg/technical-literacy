@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "Can you find your ex-boyfriend with an IP address?"
+description: "A quick tour of IP addresses"
 ---
 
 On TV, lots of terrorist plots have been foiled and bad guys jailed by using their

@@ -3,3 +3,6 @@ baseurl: /technical-literacy
 title: Technical Literacy
 description: |
   Living in the technical world
+
+github:
+  is_project_page: false
