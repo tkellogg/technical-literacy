@@ -4,7 +4,6 @@
 @import "{{ site.theme }}";
 
 header img {
-  @include large {
-    width: 64rem;
-  }
+  width: 100%;
+  max-width: 64rem;
 }
