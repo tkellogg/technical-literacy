@@ -2,13 +2,11 @@
 layout: default
 title:  "Can you find your ex-boyfriend with an IP address?"
 description: "A quick tour of IP addresses"
+cover_img: /images/ip-address-meme.jpg
 ---
 
 On TV, lots of terrorist plots have been foiled and bad guys jailed by using their
 IP address to figure out where they live. Is this possible? Let's talk about IP addresses.
-
-![I traced his IP address, problem solved]({{site.baseurl}}/images/ip-address-meme.jpg)
-
 
 # Your IP address is like a mailing address
 You can't send snail mail without an address, same with IP addresses. Nothing works without it.
