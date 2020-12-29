@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "Can you find your ex-boyfriend with an IP address?"
 description: "A quick tour of IP addresses"
 cover_img: /images/ip-address-meme.jpg
