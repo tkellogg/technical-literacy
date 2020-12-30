@@ -8,6 +8,10 @@ author: Tim Kellogg
 plugins:
   - jekyll-feed
 
+markdown: kramdown
+kramdown:
+  math_engine: katex
+
 github:
   is_project_page: false
 

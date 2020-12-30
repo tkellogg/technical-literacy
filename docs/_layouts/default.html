@@ -11,14 +11,10 @@
         gtag('config', '{{ site.google_analytics }}');
       </script>
     {% endif %}
+
     <meta charset="UTF-8">
 
-    {% if page.cover_img %}
-      <meta property="og:image" content="{{site.baseurl}}{{ page.cover_img }}" />
-    {% endif %}
-    <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{{ page.description }}" />
-    <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
+    {% include head.html %}
 
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -33,7 +29,7 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% unless page.non_post %}
-        <h2 class="project-tagline">Reading time: <strong>{% include read_time.html %}</strong></h2>
+        <p class="reading-time">Reading time: <strong>{% include read_time.html %}</strong></p>
       {% endunless %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
