@@ -11,6 +11,8 @@ markdown: kramdown
 kramdown:
   math_engine: katex
 
+google_analytics: G-RQ48THB552
+
 github:
   is_project_page: false
 
