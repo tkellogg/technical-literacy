@@ -1,5 +1,5 @@
 ---
-show_site_desc: true
+non_post: true
 ---
 
 # Technical Literacy
